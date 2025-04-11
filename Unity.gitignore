@@ -1,0 +1,26 @@
+Library/Bee/artifacts/objcopy_5lmi/libil2cpp.dbg.so
+Library/Bee/artifacts/Android/d8kzr/libil2cpp.so
+Library/Bee/artifacts/Android/il2cppOutput/build/arm64-v8a/libil2cpp.dbg.so
+Assets/LowPolyNature/Scenes/ForestPath.unity
+
+# Ignore Visual Studio + Unity files
+.vs/
+*.vsidx
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.pidb
+*.cache
+*.csproj.user
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+*.apk
+*.unitypackage
+.DS_Store
